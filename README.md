@@ -1,7 +1,25 @@
 # GovHackDataSet-Team-Tech4Coders
-Data-Set
-geopandas==1.0.1
-geopy==2.4.1
-pandas==2.3.2
-shapely==2.0.7
-sodapy==2.2.0
+busRouteData file was taken from the official datasources which was having the geolocations of all the stops.
+Centroids.xlsx is a file created after doing calculations of centroids by utilising Statistical Areas Level 1 - 2021 - Shapefile and taking centroids from it using QGIS.
+The analysis was done using Jupyter Notebook in pandas.
+It's code is available in GovHackDataAnalysis.ipynb file.
+The requirements.txt includes the libraries required to do the same data analysis.
+QGIS software will be requried to calculate the Centroids.
+Collapse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
